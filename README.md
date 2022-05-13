@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: Software Tester (automated testing in a DevOps concept)
 - 💞️ I’m looking to collaborate on... Nice question, but I'm a real beginner, even in IT as a whole, so I do not know. I will start learning and then find out. I hope....
 - 📫 How to reach me ... Will fill this in later.
-- 📖 Living near rotterdam, being 55 and finally found out what I want to be when (if?) I grow to be an adult.
+- 📖 Living near Rotterdam, being 55 and finally found out what I want to be when (if?) I grow to be an adult.
 - 
 
 <!---
